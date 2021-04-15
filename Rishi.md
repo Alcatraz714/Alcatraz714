@@ -11,11 +11,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-informational?style=flat-square&logo=linkedIn&logoColor=&color=black)](https://www.linkedin.com/in/rishi-saxena-2806b1209/)
 [![Instagram](https://img.shields.io/badge/-Instagram-informational?style=flat-square&logo=instagram&logoColor=&color=black)](https://www.instagram.com/rishi_saxena_734/) 
 
-[<img align="left" alt="Rishi Saxena | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-[<img align="left" alt="Rishi Saxena | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
-
-
-<br />
 <br />
 
 - ## Languages and Tools:
@@ -35,9 +30,8 @@
 <img align="left" alt="firebase" width="26px" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-128.png" />
 <img align="left" alt="cpp" width="26px" src="https://i.imgur.com/Ao2P8iG.png" />
 <img align="left" alt="python" width="26px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true" />
+<img align="left" alt="Unreal_Engine" width="26px" src="https://pbs.twimg.com/profile_images/879715096821460992/6DO-xqph.jpg" />
 
-
-<br />
 <br />
 
 - ## ABOUT MY WORK
