@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ...3D Modelling
 - 💞️ I’m looking to collaborate on ...N/A
 - 📫 How to reach me ...@insta ->rishi_saxena_734
-- Currently pusuing B Tech in Computer Science,VIT.
+- Currently pursuing B Tech in Computer Science, VIT.
 - Working on Unreal Engine for FPS creation sets.
 - ## ABOUT MY WORK
 - BRANCHES ->
