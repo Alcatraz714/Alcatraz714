@@ -34,6 +34,7 @@
 <img align="left" alt="Blender" width="26px" src="https://iconarchive.com/download/i98223/dakirby309/simply-styled/Blender.ico" />
 
 <br />
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alcatraz714)](https://github.com/anuraghazra/github-readme-stats)
 
 - ## ABOUT MY WORK
