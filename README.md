@@ -37,11 +37,15 @@
 
 ## My Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alcatraz714)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alcatraz714&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-### Language 
+## Languages 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alcatraz714&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alcatraz714&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+## Lofi-Music-Bot 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alcatraz714&repo=Lofi-Music-bot&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - ## ABOUT MY WORK
