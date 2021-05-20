@@ -45,12 +45,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alcatraz714&repo=Lofi-Music-bot&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-## Unreal-Pinball-Game-Construction-Script
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alcatraz714&repo=Unreal-Pinball-Game-Assets&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 - ## ABOUT MY WORK
 - BRANCHES ->
 -          >  Computer Graphics using Python Graphics library (Graphics.py), with new codes for Algorithms.
