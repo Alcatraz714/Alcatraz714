@@ -45,14 +45,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alcatraz714&repo=Lofi-Music-bot&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-- ## ABOUT MY WORK
-- BRANCHES ->
--          >  Computer Graphics using Python Graphics library (Graphics.py), with new codes for Algorithms.
--          >  ALP Programs on 8086 which don't really make sense now.
--          >  New files related to Unreal Engine Library.
--          >  Blender Creation models and Rendered Scenes.
--          >  Java codes with minimal syntax and helpful programs using Constructor and Builder classes.
--          >  Updates Awaited...
+
 <!---
 Alcatraz714/Alcatraz714 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
