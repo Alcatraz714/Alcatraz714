@@ -7,7 +7,6 @@
 - Currently pursuing B Tech in Computer Science, VIT.
 - Working on Unreal Engine for FPS creation sets.
 - ## Social:
-- 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-informational?style=flat-square&logo=linkedIn&logoColor=&color=black)](https://www.linkedin.com/in/rishi-saxena-2806b1209/)
 [![Instagram](https://img.shields.io/badge/-Instagram-informational?style=flat-square&logo=instagram&logoColor=&color=black)](https://www.instagram.com/rishi_saxena_734/) 
 <br />
