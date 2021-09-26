@@ -6,11 +6,11 @@
 - 📫 How to reach me ...@insta ->rishi_saxena_734
 - Currently pursuing B Tech in Computer Science, VIT.
 - Working on Unreal Engine for FPS creation sets.
-## Social:
+## Social
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-informational?style=flat-square&logo=linkedIn&logoColor=&color=black)](https://www.linkedin.com/in/rishi-saxena-2806b1209/)
 [![Instagram](https://img.shields.io/badge/-Instagram-informational?style=flat-square&logo=instagram&logoColor=&color=black)](https://www.instagram.com/rishi_saxena_734/) 
 <br />
-## Languages and Tools:
+## Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -34,15 +34,17 @@
 
 ## My Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alcatraz714&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alcatraz714&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Alcatraz714&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ## Languages 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alcatraz714&langs_count=10&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alcatraz714&langs_count=10&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Lofi-Music-Bot 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alcatraz714&repo=Lofi-Music-bot&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alcatraz714&repo=Lofi-Music-bot&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
