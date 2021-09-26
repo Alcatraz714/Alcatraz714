@@ -1,11 +1,11 @@
 # About Me, Rishi ! ✅
-- 👋 Hi, I’m @Alcatraz714
-- 👀 I’m interested in ...Game Engines and Graphics
-- 🌱 I’m currently learning ...3D Modelling
-- 💞️ I’m looking to collaborate on ...N/A
-- 📫 How to reach me ...@insta ->rishi_saxena_734
-- Currently pursuing B Tech in Computer Science, VIT.
-- Working on Unreal Engine for FPS creation sets.
+- 👋 Hi, I’m **@Alcatraz714**
+- 👀 I’m interested in ... **Game Development and Level Design**
+- 🌱 I’m currently learning ... **C++ Custom Blueprint for Unreal Engine 5**
+- 💞️ I’m looking to collaborate on ... **Game Development**
+- 📫 How to reach me ... **saxenarishi34@gmail.com**
+- Currently pursuing **B.Tech in Computer Science, VIT**
+- Working on **Unreal Engine and Unity Game Development**
 ## Social
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-informational?style=flat-square&logo=linkedIn&logoColor=&color=black)](https://www.linkedin.com/in/rishi-saxena-2806b1209/)
 [![Instagram](https://img.shields.io/badge/-Instagram-informational?style=flat-square&logo=instagram&logoColor=&color=black)](https://www.instagram.com/rishi_saxena_734/) 
