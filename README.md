@@ -1,7 +1,7 @@
 # About Me, Rishi ! ✅
 - 👋 Hi, I’m **@Alcatraz714**
 - 👀 I’m interested in ... **Game Development and Level Design**
-- 🌱 I’m currently learning ... **C++ Custom Blueprint for Unreal Engine 5**
+- 🌱 I’m currently learning ... **C++ Custom Blueprint for Unreal Engine 5 and Unity 2021.f1**
 - 💞️ I’m looking to collaborate on ... **Game Development**
 - 📫 How to reach me ... **saxenarishi34@gmail.com**
 - Currently pursuing **B.Tech in Computer Science, VIT**
