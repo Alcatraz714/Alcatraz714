@@ -28,7 +28,7 @@
 <img align="left" alt="cpp" width="26px" src="https://i.imgur.com/Ao2P8iG.png" />
 <img align="left" alt="python" width="26px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true" />
 <img align="left" alt="Unreal_Engine" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKQ3sCj88CaR4wNvIxDxcxQ37sdIi8ijNWn6aHmzsONsUrfojserf0CRrWdSxWV5afIeM&usqp=CAU" />
-<img align="left" alt="Blender" width="26px" src="https://iconarchive.com/download/i98223/dakirby309/simply-styled/Blender.ico" />
+
 
 <br />
 
